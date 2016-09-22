@@ -1,0 +1,20 @@
+Base path: C:/Program Files/Unity3.4/Editor/Data
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1001 outsize=1282 ok=1
+Cmd: preprocess
+  insize=145 outsize=142 ok=1
+Cmd: preprocess
+  insize=144 outsize=141 ok=1
+Cmd: preprocess
+  insize=144 outsize=141 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1162 outsize=473 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1162 outsize=249 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: preprocess
+  insize=258 outsize=256 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (0): Program 'vert', error X3501: 'vert': entrypoint not found\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING
+  api=4 type=0 insize=299 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=0
